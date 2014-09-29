@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>0B4154DD-64FE-425B-945C-67F010366588</string>
+	<string>6B350523-548B-4631-8B70-30078FC1CE87</string>
 	<key>IDESourceControlProjectName</key>
 	<string>HelloObjectiveC</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>F452BF54-3FF4-43EA-A404-317C70CAFF6D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Flatiron</string>
+			<string>HelloObjectiveC</string>
 		</dict>
 	</array>
 </dict>
